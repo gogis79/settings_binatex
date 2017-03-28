@@ -1,18 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[rp-prod] - ...\src\RP\Common\Module\User\Facade\UserService.php'" />
+    <option name="defaultScopeName" value="File '[rp-prod] - ...\src\RP\Common\Module\User\Facade\UserService.php'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml,*.php" />
+    <option name="SEARCH_SCOPE" value="File '[rp-prod] - ...\src\RP\Common\Module\User\Facade\UserService.php'" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*Helper*</mask>
       <mask>*transla*</mask>
@@ -27,7 +23,6 @@
       <mask>*.yml,*.php;*.feature</mask>
       <mask>*.yml,*.php,*.feature</mask>
       <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>**.*</mask>
       <mask>**.</mask>
       <mask>**</mask>
@@ -39,6 +34,11 @@
       <mask>*.php;</mask>
       <mask>*.yml,*.php;</mask>
       <mask>*.yml,*.php</mask>
+      <mask>*.yml,*.ph</mask>
+      <mask>*.yml,*.p</mask>
+      <mask>*.yml,*.</mask>
+      <mask>*.yml,*</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
