@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[rp-prod] - ...\vendor\russianplace\mongodb-odm\tests\Doctrine\ODM\MongoDB\Tests\DocumentManagerTest.php'" />
+    <option name="defaultScopeName" value="File '[rp-prod] - ...\vendor\russianplace\mongodb-odm\tests\Doctrine\ODM\MongoDB\Tests\DocumentManagerTest.php'" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[rp-prod] - ...\vendor\russianplace\mongodb-odm\tests\Doctrine\ODM\MongoDB\Tests\DocumentManagerTest.php'" />
+    <option name="FILE_MASK" value="*.*" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*Helper*</mask>
+      <mask>*transla*</mask>
+      <mask>*.yml,*.php, *.json</mask>
+      <mask>composer.*</mask>
+      <mask>*.yml,*.php, *.twig</mask>
+      <mask>*.twig</mask>
+      <mask>css</mask>
+      <mask>*.css</mask>
+      <mask>*Converter.php</mask>
+      <mask>*.yml,*.php;*.json</mask>
+      <mask>*.yml,*.php;</mask>
+      <mask>*.yml,*.php;*.feature</mask>
+      <mask>*.yml,*.php,*.feature</mask>
+      <mask>*.php</mask>
+      <mask>*.yml,*.php</mask>
+      <mask>*.yml</mask>
+      <mask>*.*</mask>
+    </recentFileMasks>
+  </component>
+</application>
