@@ -9,10 +9,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -32,10 +30,17 @@
       <mask>*.yml,*.php;</mask>
       <mask>*.yml,*.php;*.feature</mask>
       <mask>*.yml,*.php,*.feature</mask>
-      <mask>*.php</mask>
       <mask>*.yml,*.php</mask>
+      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>**.*</mask>
+      <mask>**.</mask>
+      <mask>**</mask>
+      <mask>*</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
