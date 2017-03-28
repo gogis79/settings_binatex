@@ -7,9 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.yml,*.php" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -25,10 +24,8 @@
       <mask>*.css</mask>
       <mask>*Converter.php</mask>
       <mask>*.yml,*.php;*.json</mask>
-      <mask>*.yml,*.php;</mask>
       <mask>*.yml,*.php;*.feature</mask>
       <mask>*.yml,*.php,*.feature</mask>
-      <mask>*.yml,*.php</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>**.*</mask>
@@ -39,6 +36,9 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.php;</mask>
+      <mask>*.yml,*.php;</mask>
+      <mask>*.yml,*.php</mask>
     </recentFileMasks>
   </component>
 </application>
