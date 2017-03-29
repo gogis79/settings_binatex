@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*Helper*</mask>
@@ -28,9 +28,7 @@
       <mask>**</mask>
       <mask>*</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.php;</mask>
       <mask>*.yml,*.php;</mask>
       <mask>*.yml,*.php</mask>
@@ -39,6 +37,8 @@
       <mask>*.yml,*.</mask>
       <mask>*.yml,*</mask>
       <mask>*.yml</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
