@@ -62,6 +62,7 @@
             <match>
               <CONST>true</CONST>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
