@@ -40,6 +40,7 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
@@ -70,7 +71,29 @@
             <match>
               <AND>
                 <FIELD>true</FIELD>
-                <modifiers />
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PRIVATE>true</PRIVATE>
               </AND>
             </match>
             <order>BY_NAME</order>
@@ -88,7 +111,7 @@
             <match>
               <AND>
                 <METHOD>true</METHOD>
-                <modifiers />
+                <PUBLIC>true</PUBLIC>
               </AND>
             </match>
             <order>BY_NAME</order>
@@ -97,22 +120,23 @@
         <section>
           <rule>
             <match>
-              <TRAIT>true</TRAIT>
+              <AND>
+                <METHOD>true</METHOD>
+                <PROTECTED>true</PROTECTED>
+              </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
           <rule>
             <match>
-              <INTERFACE>true</INTERFACE>
+              <AND>
+                <METHOD>true</METHOD>
+                <PRIVATE>true</PRIVATE>
+              </AND>
             </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <CLASS>true</CLASS>
-            </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
       </rules>
