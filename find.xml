@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.yml,*.php, *.json</mask>
       <mask>*.yml,*.php, *.jso</mask>
@@ -30,13 +32,13 @@
       <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
-      <mask>p</mask>
-      <mask>php</mask>
-      <mask>*.php</mask>
       <mask>y</mask>
       <mask>ym</mask>
       <mask>yml</mask>
       <mask>*.yml</mask>
+      <mask>p</mask>
+      <mask>php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
