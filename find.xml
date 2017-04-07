@@ -7,9 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.yml,*.</mask>
-      <mask>*.yml,*</mask>
-      <mask>.yml</mask>
       <mask>ml</mask>
       <mask>l</mask>
       <mask>*.yml,*.php</mask>
@@ -31,11 +28,14 @@
       <mask>*.yml,*.php,</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.twi</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>t</mask>
+      <mask>tw</mask>
+      <mask>twi</mask>
       <mask>*.twig</mask>
     </recentFileMasks>
   </component>
