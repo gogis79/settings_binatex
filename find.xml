@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.yml,*.php, *.</mask>
       <mask>*.yml,*.php, *</mask>
@@ -31,7 +31,6 @@
       <mask>ym</mask>
       <mask>y</mask>
       <mask>yml</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>зрз</mask>
       <mask>зр</mask>
@@ -39,6 +38,7 @@
       <mask>p</mask>
       <mask>php</mask>
       <mask>*.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
