@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>ml</mask>
       <mask>l</mask>
@@ -13,15 +13,12 @@
       <mask>*ю</mask>
       <mask>*.ph</mask>
       <mask>*.php,</mask>
-      <mask>*.y</mask>
       <mask>y</mask>
-      <mask>*.ym</mask>
       <mask>зрз</mask>
       <mask>зр</mask>
       <mask>з</mask>
       <mask>ym</mask>
       <mask>yml</mask>
-      <mask>*.yml</mask>
       <mask>p</mask>
       <mask>php</mask>
       <mask>*.yml,*.php,</mask>
@@ -32,11 +29,14 @@
       <mask>*.twi</mask>
       <mask>*.*</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>t</mask>
       <mask>tw</mask>
       <mask>twi</mask>
       <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
