@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.feature" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>p</mask>
       <mask>php</mask>
@@ -18,7 +18,6 @@
       <mask>tw</mask>
       <mask>twi</mask>
       <mask>*.twig</mask>
-      <mask>*.ym</mask>
       <mask>*.зрз</mask>
       <mask>*.зр</mask>
       <mask>*.з</mask>
@@ -28,15 +27,16 @@
       <mask>*.нь</mask>
       <mask>*.н</mask>
       <mask>*.y</mask>
-      <mask>*.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.fe</mask>
       <mask>*.fea</mask>
       <mask>*.feat</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
