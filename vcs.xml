@@ -38,6 +38,10 @@
           <option name="url" value="git@gitlab.russianplace.com:russianplace/admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.russianplace.com:rp-services/search-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\gogis\RP" />
