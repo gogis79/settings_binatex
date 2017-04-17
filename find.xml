@@ -7,8 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.yml,*.php,</mask>
-      <mask>*.yml,*.php,</mask>
       <mask>*.t</mask>
       <mask>*.twi</mask>
       <mask>t</mask>
@@ -27,15 +25,17 @@
       <mask>*.feat</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
-      <mask>*.y</mask>
-      <mask>*.*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ym;l</mask>
       <mask>*.ym;</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.=</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
+      <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
