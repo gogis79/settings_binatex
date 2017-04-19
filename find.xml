@@ -7,12 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>tw</mask>
-      <mask>twi</mask>
-      <mask>*.зрз</mask>
-      <mask>*.зр</mask>
       <mask>*.з</mask>
       <mask>*.ньд</mask>
       <mask>*.нь</mask>
@@ -26,19 +22,23 @@
       <mask>*.ym;l</mask>
       <mask>*.ym;</mask>
       <mask>*.=</mask>
-      <mask>*</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.*</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
+      <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.*</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
