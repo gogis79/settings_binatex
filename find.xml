@@ -9,12 +9,8 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.twi</mask>
-      <mask>t</mask>
       <mask>tw</mask>
       <mask>twi</mask>
-      <mask>*.twig</mask>
       <mask>*.зрз</mask>
       <mask>*.зр</mask>
       <mask>*.з</mask>
@@ -36,6 +32,10 @@
       <mask>*.p</mask>
       <mask>*.*</mask>
       <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
