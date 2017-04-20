@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.з</mask>
       <mask>*.ньд</mask>
@@ -22,8 +22,6 @@
       <mask>*.ym;l</mask>
       <mask>*.ym;</mask>
       <mask>*.=</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
@@ -37,8 +35,10 @@
       <mask>*.twi</mask>
       <mask>*.twig</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
