@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.з</mask>
       <mask>*.ньд</mask>
@@ -20,7 +20,6 @@
       <mask>*.ym;l</mask>
       <mask>*.ym;</mask>
       <mask>*.=</mask>
-      <mask>*.p</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
@@ -30,13 +29,14 @@
       <mask>*.twi</mask>
       <mask>*.twig</mask>
       <mask>*</mask>
-      <mask>*.*</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
