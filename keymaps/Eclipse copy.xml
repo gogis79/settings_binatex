@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
