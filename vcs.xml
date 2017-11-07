@@ -46,6 +46,14 @@
           <option name="url" value="https://gogis79@bitbucket.org/actionpay/binatex-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lab.binatex.com" />
+          <option name="userName" value="g.yamov@binatex.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://lab.binatex.com/platform/proto" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\gogis\projects\" />
