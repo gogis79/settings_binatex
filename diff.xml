@@ -14,7 +14,7 @@
       </entry>
       <entry key="DirDiff">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="IGNORE_POLICY" value="FORMATTING" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">
