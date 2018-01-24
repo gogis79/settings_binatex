@@ -9,13 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.ньд</mask>
-      <mask>*.нь</mask>
-      <mask>*.н</mask>
-      <mask>*.f</mask>
-      <mask>*.fe</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
       <mask>*.ym;l</mask>
@@ -29,7 +22,6 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*</mask>
       <mask>*.o</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
@@ -37,6 +29,14 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>A</mask>
+      <mask>Am</mask>
+      <mask>Amq</mask>
+      <mask>Amqp</mask>
+      <mask>Amqp.</mask>
+      <mask>Amqp.*</mask>
+      <mask>Amqp*.*</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.*</mask>
     </recentFileMasks>
