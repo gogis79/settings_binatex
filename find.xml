@@ -26,7 +26,6 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>A</mask>
@@ -38,6 +37,7 @@
       <mask>Amqp*.*</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.php</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
