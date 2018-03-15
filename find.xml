@@ -36,8 +36,8 @@
       <mask>Amqp*.*</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.php</mask>
       <mask>*.proto</mask>
+      <mask>*.php</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
