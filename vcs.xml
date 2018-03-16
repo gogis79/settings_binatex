@@ -74,6 +74,10 @@
           <option name="url" value="https://lab.binatex.com/backend/website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://lab.binatex.com/meta/proto.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\gogis\projects\" />
