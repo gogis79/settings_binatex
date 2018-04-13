@@ -78,16 +78,15 @@
           <option name="url" value="https://lab.binatex.com/meta/proto.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@lab.binatex.com:backend/website.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\gogis\projects" />
+    <option name="cloneParentDir" value="C:\gogis\projects\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\gogis\russian.place\rp-v1" />
   </component>
 </application>
