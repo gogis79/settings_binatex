@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,8 +15,8 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.ts</mask>
-    <mask>*.php</mask>
     <mask>*.*</mask>
     <mask>*.css</mask>
+    <mask>*.php</mask>
   </component>
 </application>
