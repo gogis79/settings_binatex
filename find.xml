@@ -18,10 +18,10 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
     <mask>*.*</mask>
   </component>
 </application>
