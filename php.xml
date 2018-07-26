@@ -14,7 +14,8 @@
       <interpreter home="sftp://yamov@192.168.13.48:22/usr/bin/php" id="9aede49b-1376-4393-a3d0-7b78d6122c58" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
         <remote_data WEB_SERVER_CONFIG_ID="052612ab-3920-4e35-a2c8-951b3bdee1f9" WEB_SERVER_CONFIG_NAME="192.168.13.48" WEB_SERVER_CREDENTIALS_ID="sftp://yamov@192.168.13.48:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/yamov/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
-      <interpreter home="C:\Program Files\PHP7\php.exe" id="6e8c8f1b-a0a4-4ead-9ee3-f4a179e9c6f2" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\gogis\PHPonWindows\php.cmd" id="6e8c8f1b-a0a4-4ead-9ee3-f4a179e9c6f2" name="PHP 7.1 Ubuntu" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\Program Files\PHP7\php.exe" id="6306c1cc-2aed-45ec-aa0e-a00d11846526" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
