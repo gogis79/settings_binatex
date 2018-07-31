@@ -11,7 +11,6 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\gogis\PHPonWindows\php.cmd" id="6e8c8f1b-a0a4-4ead-9ee3-f4a179e9c6f2" name="PHP 7.1 Ubuntu" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\Program Files\PHP7\php.exe" id="6306c1cc-2aed-45ec-aa0e-a00d11846526" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
