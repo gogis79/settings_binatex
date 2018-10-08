@@ -17,6 +17,12 @@
           <option name="sshUrl" value="git@lab.binatex.com:backend/landing.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/backend/partners.git" />
+          <option name="name" value="partners" />
+          <option name="namespace" value="backend" />
+          <option name="sshUrl" value="git@lab.binatex.com:backend/partners.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://lab.binatex.com/backend/technical_work.git" />
           <option name="name" value="technical_work" />
           <option name="namespace" value="backend" />
@@ -27,6 +33,12 @@
           <option name="name" value="website" />
           <option name="namespace" value="backend" />
           <option name="sshUrl" value="git@lab.binatex.com:backend/website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/billing.git" />
+          <option name="name" value="billing" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/billing.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://lab.binatex.com/frontend/cabinet.git" />
@@ -45,6 +57,12 @@
           <option name="name" value="console-bak" />
           <option name="namespace" value="frontend" />
           <option name="sshUrl" value="git@lab.binatex.com:frontend/console-bak.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/console2.git" />
+          <option name="name" value="console2" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/console2.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://lab.binatex.com/frontend/control-desk.git" />
@@ -75,6 +93,12 @@
           <option name="name" value="manager" />
           <option name="namespace" value="frontend" />
           <option name="sshUrl" value="git@lab.binatex.com:frontend/manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/partners.git" />
+          <option name="name" value="partners" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/partners.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://lab.binatex.com/meta/proto.git" />
@@ -101,6 +125,12 @@
           <option name="sshUrl" value="git@lab.binatex.com:backend/landing.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/backend/partners.git" />
+          <option name="name" value="partners" />
+          <option name="namespace" value="backend" />
+          <option name="sshUrl" value="git@lab.binatex.com:backend/partners.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://lab.binatex.com/backend/technical_work.git" />
           <option name="name" value="technical_work" />
           <option name="namespace" value="backend" />
@@ -111,6 +141,12 @@
           <option name="name" value="website" />
           <option name="namespace" value="backend" />
           <option name="sshUrl" value="git@lab.binatex.com:backend/website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/billing.git" />
+          <option name="name" value="billing" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/billing.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://lab.binatex.com/frontend/cabinet.git" />
@@ -129,6 +165,12 @@
           <option name="name" value="console-bak" />
           <option name="namespace" value="frontend" />
           <option name="sshUrl" value="git@lab.binatex.com:frontend/console-bak.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/console2.git" />
+          <option name="name" value="console2" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/console2.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://lab.binatex.com/frontend/control-desk.git" />
@@ -161,6 +203,12 @@
           <option name="sshUrl" value="git@lab.binatex.com:frontend/manager.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/partners.git" />
+          <option name="name" value="partners" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/partners.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://lab.binatex.com/meta/proto.git" />
           <option name="name" value="proto" />
           <option name="namespace" value="meta" />
@@ -172,14 +220,6 @@
           <option name="namespace" value="qa" />
           <option name="sshUrl" value="git@lab.binatex.com:qa/website.git" />
         </ProjectDto>
-      </list>
-    </option>
-    <option name="servers">
-      <list>
-        <ServerDto>
-          <option name="host" value="https://lab.binatex.com/" />
-          <option name="token" value="gvpfZdoWwfPW1W6KBDQe" />
-        </ServerDto>
       </list>
     </option>
   </component>
