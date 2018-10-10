@@ -1,7 +1,7 @@
 <application>
   <component name="SettingsState">
     <option name="host" value="https://lab.binatex.com/" />
-    <option name="token" value="gvpfZdoWwfPW1W6KBDQe" />
+    <option name="token" value="gkzobDeH7cVmbASv5cVY" />
     <option name="projects">
       <list>
         <ProjectDto>
@@ -112,14 +112,6 @@
           <option name="namespace" value="qa" />
           <option name="sshUrl" value="git@lab.binatex.com:qa/website.git" />
         </ProjectDto>
-      </list>
-    </option>
-    <option name="servers">
-      <list>
-        <ServerDto>
-          <option name="host" value="https://lab.binatex.com/" />
-          <option name="token" value="gvpfZdoWwfPW1W6KBDQe" />
-        </ServerDto>
       </list>
     </option>
   </component>
