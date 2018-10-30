@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="gkzobDeH7cVmbASv5cVY" />
+          <option name="apiUrl" value="https://lab.binatex.com/" />
+          <option name="repositoryUrl" value="/backend/website/" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
