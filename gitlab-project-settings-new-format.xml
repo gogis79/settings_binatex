@@ -1,0 +1,126 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/backend/geoip.git" />
+          <option name="name" value="geoip" />
+          <option name="namespace" value="backend" />
+          <option name="sshUrl" value="git@lab.binatex.com:backend/geoip.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/backend/landing.git" />
+          <option name="name" value="landing" />
+          <option name="namespace" value="backend" />
+          <option name="sshUrl" value="git@lab.binatex.com:backend/landing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/backend/partners.git" />
+          <option name="name" value="partners" />
+          <option name="namespace" value="backend" />
+          <option name="sshUrl" value="git@lab.binatex.com:backend/partners.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/backend/technical_work.git" />
+          <option name="name" value="technical_work" />
+          <option name="namespace" value="backend" />
+          <option name="sshUrl" value="git@lab.binatex.com:backend/technical_work.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/backend/website.git" />
+          <option name="name" value="website" />
+          <option name="namespace" value="backend" />
+          <option name="sshUrl" value="git@lab.binatex.com:backend/website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/billing.git" />
+          <option name="name" value="billing" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/billing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/cabinet.git" />
+          <option name="name" value="cabinet" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/cabinet.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/console.git" />
+          <option name="name" value="console" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/console.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/console-bak.git" />
+          <option name="name" value="console-bak" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/console-bak.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/console2.git" />
+          <option name="name" value="console2" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/console2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/control-desk.git" />
+          <option name="name" value="control-desk" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/control-desk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/index.git" />
+          <option name="name" value="index" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/index.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/lib.git" />
+          <option name="name" value="lib" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/lib.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/lib-bak.git" />
+          <option name="name" value="lib-bak" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/lib-bak.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/manager.git" />
+          <option name="name" value="manager" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/frontend/partners.git" />
+          <option name="name" value="partners" />
+          <option name="namespace" value="frontend" />
+          <option name="sshUrl" value="git@lab.binatex.com:frontend/partners.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/meta/proto.git" />
+          <option name="name" value="proto" />
+          <option name="namespace" value="meta" />
+          <option name="sshUrl" value="git@lab.binatex.com:meta/proto.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://lab.binatex.com/qa/website.git" />
+          <option name="name" value="website" />
+          <option name="namespace" value="qa" />
+          <option name="sshUrl" value="git@lab.binatex.com:qa/website.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="663-xKVxtRtrCr6DmraT" />
+          <option name="apiUrl" value="https://lab.binatex.com/" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="lab.binatex.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>

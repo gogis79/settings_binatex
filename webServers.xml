@@ -1,8 +1,11 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="052612ab-3920-4e35-a2c8-951b3bdee1f9" name="192.168.13.37" url="http://binatex.yamov.adnwb.ru/">
+      <webServer id="052612ab-3920-4e35-a2c8-951b3bdee1f9" name="192.168.13.37/binatex" url="http://binatex.yamov.adnwb.ru/">
         <fileTransfer port="0" mountedRoot="K:\binatex" accessType="MOUNT" />
+      </webServer>
+      <webServer id="38cba817-a88e-4902-8cf7-3b71cd6912ae" name="192.168.13.37/cabinet" url="http://cabinet.yamov.adnwb.ru/">
+        <fileTransfer port="0" mountedRoot="K:\cabinet" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
