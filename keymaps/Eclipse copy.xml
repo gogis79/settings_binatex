@@ -13,6 +13,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="f7" />
   </action>
@@ -27,13 +30,16 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="Rerun" />
   <action id="RunToCursor" />
   <action id="ShowPopupMenu">
-    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
