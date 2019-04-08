@@ -10,6 +10,7 @@
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -44,12 +45,18 @@
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
   <action id="ProjectViewChangeView" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="Rerun" />
   <action id="RunToCursor" />
   <action id="SelectIn" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
