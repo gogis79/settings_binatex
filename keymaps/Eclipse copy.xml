@@ -20,6 +20,9 @@
     <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="FindWordAtCaret" />
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
