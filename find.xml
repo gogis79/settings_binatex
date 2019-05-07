@@ -22,6 +22,7 @@
     <mask>*.json</mask>
     <mask>*.*`</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
     <mask>*.*</mask>
   </component>
 </application>
