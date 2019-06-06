@@ -116,9 +116,8 @@
       <list>
         <GitlabServer>
           <option name="apiToken" value="663-xKVxtRtrCr6DmraT" />
-          <option name="apiUrl" value="https://lab.binatex.com/" />
-          <option name="preferredConnection" value="HTTPS" />
-          <option name="repositoryUrl" value="lab.binatex.com" />
+          <option name="apiUrl" value="https://gitlab.binatex.com/" />
+          <option name="repositoryUrl" value="g.yamov@gitlab.binatex.com/backend/website.git" />
         </GitlabServer>
       </list>
     </option>
