@@ -89,7 +89,6 @@
             <match>
               <AND>
                 <FIELD>true</FIELD>
-                <NAME>id</NAME>
                 <PROTECTED>true</PROTECTED>
                 <STATIC>true</STATIC>
               </AND>
