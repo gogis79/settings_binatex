@@ -82,10 +82,6 @@
           <type>GETTERS_AND_SETTERS</type>
           <order>KEEP</order>
         </group>
-        <group>
-          <type>DEPENDENT_METHODS</type>
-          <order>BREADTH_FIRST</order>
-        </group>
       </groups>
       <rules>
         <section>
@@ -93,7 +89,6 @@
             <match>
               <AND>
                 <FIELD>true</FIELD>
-                <NAME>id</NAME>
                 <PROTECTED>true</PROTECTED>
                 <STATIC>true</STATIC>
               </AND>
