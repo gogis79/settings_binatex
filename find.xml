@@ -23,9 +23,9 @@
     <mask>*.*`</mask>
     <mask>*.yml</mask>
     <mask>*Invoice*</mask>
-    <mask>*.php</mask>
     <mask>*.pdf</mask>
     <mask>*Helper*.*</mask>
+    <mask>*.php</mask>
     <mask>*.*</mask>
   </component>
 </application>
