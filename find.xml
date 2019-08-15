@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="init.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -23,9 +23,10 @@
     <mask>*.*`</mask>
     <mask>*.yml</mask>
     <mask>*Invoice*</mask>
-    <mask>*.php</mask>
     <mask>*.pdf</mask>
     <mask>*Helper*.*</mask>
+    <mask>*.php</mask>
     <mask>*.*</mask>
+    <mask>init.php</mask>
   </component>
 </application>
