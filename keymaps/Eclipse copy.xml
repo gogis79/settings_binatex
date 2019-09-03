@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="ContextHelp" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -40,6 +41,9 @@
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="ctrl t" />
