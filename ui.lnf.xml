@@ -2,9 +2,9 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="50" />
+    <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
-    <option name="OPEN_TABS_AT_THE_END" value="true" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
