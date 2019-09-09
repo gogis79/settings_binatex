@@ -18,15 +18,17 @@
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_KEEP_BLANK_LINES" value="false" />
-    <option name="SORT_PHPDOC_ELEMENTS" value="false" />
-    <option name="THROWS_WEIGHT" value="4" />
-    <option name="PARAM_WEIGHT" value="1" />
-    <option name="RETURN_WEIGHT" value="3" />
+    <option name="THROWS_WEIGHT" value="6" />
+    <option name="PARAM_WEIGHT" value="3" />
+    <option name="RETURN_WEIGHT" value="5" />
+    <option name="INTERNAL_WEIGHT" value="1" />
     <option name="DEPRECATED_WEIGHT" value="0" />
-    <option name="VAR_WEIGHT" value="2" />
+    <option name="SEE_WEIGHT" value="2" />
+    <option name="VAR_WEIGHT" value="4" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
+    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
@@ -63,6 +65,7 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
