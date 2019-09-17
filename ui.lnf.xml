@@ -5,6 +5,7 @@
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
