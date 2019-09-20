@@ -6,12 +6,14 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -29,8 +31,8 @@
     <mask>*.pdf</mask>
     <mask>*Helper*.*</mask>
     <mask>init.php</mask>
-    <mask>*.php</mask>
     <mask>*.*</mask>
     <mask>*.ts</mask>
+    <mask>*.php</mask>
   </component>
 </application>
