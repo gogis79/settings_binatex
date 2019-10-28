@@ -10,12 +10,12 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="262c2d19-9ed9-4ea6-abf1-546991e662bb" name="PHP" home="C:\PHP\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="262c2d19-9ed9-4ea6-abf1-546991e662bb" name="local" home="C:\PHP\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP">
+      <interpreter name="local">
         <phpinfo binary_type="PHP" php_cgi="C:\PHP\php-cgi.exe" php_cli="C:\PHP\php.exe" path_separator=";" version="7.3.10">
           <additional_php_ini />
           <configuration_file>C:\PHP\php.ini</configuration_file>
@@ -40,7 +40,9 @@
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
+            <extension name="mbstring" />
             <extension name="mysqlnd" />
+            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="readline" />
             <extension name="session" />
