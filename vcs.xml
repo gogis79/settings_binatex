@@ -114,9 +114,13 @@
           <option name="url" value="ssh://git@git.2wtrade.com:2222/microservices/docker-2wcall.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.binatex.com/frontend/cabinet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\gogis\projects\2wtrade" />
+    <option name="cloneParentDir" value="C:\gogis\projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
