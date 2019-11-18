@@ -33,6 +33,7 @@
     <mask>*Builder.php</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
+    <mask>Affiliate*.*</mask>
     <mask>*.*</mask>
   </component>
 </application>
