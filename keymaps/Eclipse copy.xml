@@ -19,6 +19,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
