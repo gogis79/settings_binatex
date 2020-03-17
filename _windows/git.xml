@@ -2,5 +2,6 @@
   <component name="Git.Application.Settings">
     <option name="myPathToGit" value="d:\Program Files\Git\cmd\git.exe" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="false" />
+    <option name="USE_CREDENTIAL_HELPER" value="true" />
   </component>
 </application>
