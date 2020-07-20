@@ -49,6 +49,7 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="HideAllWindows" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
@@ -73,6 +74,9 @@
   </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="ShowRegistry">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
   </action>
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
